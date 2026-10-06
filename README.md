@@ -1,0 +1,1 @@
+Warehouse AI Lab: Python and SQL tools for warehouse automation operations. Today it does downtime analysis by zone, crane-outage inventory impact, and order allocation by ship-by time. In progress: an LLM incident copilot that turns operator fault reports into structured impact assessments.
