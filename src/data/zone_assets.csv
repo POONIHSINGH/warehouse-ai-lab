@@ -1,0 +1,4 @@
+zone,asset_id,asset_type
+ASRS-1,ASSET-101,Shuttle
+ASRS-2,ASSET-102,Crane
+ASRS-3,ASSET-103,Conveyor

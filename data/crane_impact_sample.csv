@@ -1,0 +1,4 @@
+sku,crane_id,asrs_qty,dms_available_qty,forecast_night_qty
+SKU-A,CRANE-01,120,20,50
+SKU-B,CRANE-01,80,60,40
+SKU-C,CRANE-01,50,30,30
